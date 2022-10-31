@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
 
-Hello, I am Robin Singh, a 2nd year student from RAvenshaw University pursuing Bachelor's degree in Information Technology and Management.
+Hello, I am Robin Singh, a 2nd year student from Ravenshaw University pursuing Bachelor's degree in Information Technology and Management.
 I am interested in Web development and various kinds of software dvelopment. I'm a beginner in the field of Open-source and so much interested in the same.
 
 I would love to connect with you all.
@@ -9,6 +9,7 @@ I would love to connect with you all.
 <p align="left"> <a href="https://twitter.com/robxnsingh" target="blank"><img src="https://img.shields.io/twitter/follow/robxnsingh?logo=twitter&style=for-the-badge" alt="robxnsingh" /></a> </p>
 
 - 📫 How to reach me **edu.robinsingh@gmail.com**
+[![@robxnsingh03's Holopin board](https://holopin.me/robxnsingh03)](https://holopin.io/@robxnsingh03)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
